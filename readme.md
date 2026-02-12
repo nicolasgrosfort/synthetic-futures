@@ -1,185 +1,142 @@
-# Futurs Synthétiques
+# Futurs synthétiques
 
-Imaginer des futurs possibles de l'IA — et inventer nos propres stratégies pour y vivre.
-
-_Avec les jeunes de [Suivi Parcours Pan]_
-@ vendredi 20 mars 2026 de 9h30 à 12h00
+Imaginer des futurs possibles à travers le prisme de l'IA - et explorer nos possibles façons d'y vivre.
+_Avec les jeunes de Parcours Pan, le vendredi 20 mars 2026 de 9h30 à 12h00._
 
 ## TLDR;
 
-Utiliser l'intelligence artificielle comme prisme pour explorer nos imaginaires du futur, en invitant les participant·e·s à produire des récits spéculatifs et des prototypes de résistance, d'adaptation ou d'acceptation.
+Utiliser l'intelligence artificielle comme prisme pour explorer nos imaginaires du futur, en invitant les participant·e·s à imaginer un futur, à en écrire un court récit, puis à en créer une trace tangible - une photographie mise en scène et, si souhaité, un enregistrement sonore - qui en matérialise l'existence.
 
 ## Structure
 
-| **Titre**              | **Commentaire**                                                                                                                                                                                          | **Type**                        | **Durée** |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------- |
-| **Déplier le présent** | Identifier collectivement où et comment l'IA est déjà présente dans la vie quotidienne. Mettre en évidence ses impacts, ses bénéfices et ses zones de tension                                            | Discussion collective           | 30 min    |
-| **Imaginer le futur**  | Choisir une thématique (ex. monde dataset) et en projeter les conséquences sur 10, 20 ou 30 ans. Identifier ce qui change et ce qui pourrait disparaître                                                 | Workshop en groupes             | 40 min    |
-| **Écrire le passé**    | Se situer dans un futur (ex. 2035) et écrire un court récit à la première personne. Imaginer comment on vit dans ce monde et ce que l'on a inventé pour s'adapter, résister ou transformer la situation. | Workshop en groupes             | 60 min    |
-| **Conclusion**         | Présentation des récits et des productions. Mise en commun des visions du futur et discussion finale sur nos imaginaires de l'IA.                                                                        | Discussion collective           | 20 min    |
-| **Documentation**      | Documentation et transformation des textes et artefacts produits en une collection numérique (site internet / bestiaire spéculatif).                                                                     | Travail individuel post-atelier | 2 à 4h    |
+| **Titre**              | **Commentaire**                                                                                                                                                                                                                                                                                                                                                                       | **Type**                        | **Durée** |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------- |
+| **Déplier le présent** | Identifier collectivement où et comment l'IA est déjà présente dans la vie quotidienne. Mettre en évidence ses impacts, ses bénéfices et ses zones de tension, les peurs et les rêves qui y sont associés.                                                                                                                                                                            | Discussion collective           | 30 min    |
+| **Imaginer le futur**  | Choisir une [thématique](#thématiques) (ex. monde dataset) et en projeter les conséquences sur 10, 20 ou 30 ans. Identifier ce qui change et ce qui pourrait disparaître/apparaître.                                                                                                                                                                                                  | Workshop en groupes             | 40 min    |
+| **Laisser une trace**  | Depuis le futur imaginé, rédiger un court récit à la première personne sous forme de carnet de bord. Décrire un moment précis du quotidien dans ce monde (ex. : la manière de dormir, d'aimer ou de travailler ; un geste, une habitude, un rituel). Le texte sera accompagné d'une photographie - et éventuellement d'un enregistrement sonore - matérialisant ce fragment de futur. | Workshop en groupes             | 60 min    |
+| **Conclusion**         | Présentation des récits et des productions visuelles et sonores. Mise en commun des visions du futur et discussion finale sur nos imaginaires de l'IA.                                                                                                                                                                                                                                | Discussion collective           | 20 min    |
+| **Documentation**      | Documentation et transformation des textes et artefacts produits en une collection numérique (site internet / bestiaire spéculatif).                                                                                                                                                                                                                                                  | Travail individuel post-atelier | 2 à 4h    |
 
 ### Documentation
 
-Les récits produits pourront donner lieu à une exposition digitale sous la forme d'une collection numérique (réalisée après coup).
-Un bestiaire numérique de futurs possibles de l'IA, à partir des récits et des prototypes produits lors de l'atelier.
+Les récits produits pourront donner lieu à une exposition digitale sous la forme d'une collection éditoriale numérique (réalisée dans un second temps) : un bestiaire numérique de futurs possibles de l'IA, à partir des récits et des prototypes produits lors de l'atelier.
 
-### Exemple
+### Exemple de récit
 
-Texte : Jouer (2035)
-
-Je me souviens du moment où on a commencé à jouer.
-
-On ne pouvait plus communiquer normalement.
-Nos agents anticipaient toutes nos actions.
-
-Alors on s'est mis à communiquer en jouant.
-
-C'était difficile.
-On devait inventer un nouveau jeu chaque semaine.
-
-Les règles changeaient sans cesse.
-Les gestes voulaient dire autre chose.
-Même perdre pouvait être un message.
-
-Mais au moins, on devait se voir en vrai pour se mettre d'accord.
-
-Il y avait toujours le risque de se faire attraper.
-À la longue, c'était fatigant.
+À venir...
 
 ## Objectif
 
-Explorer collectivement nos représentations de l'intelligence artificielle - nos peurs, nos enthousiasmes, nos doutes - à partir de nos expériences actuelles.
-À partir d'observations du présent, imaginer un futur proche (10 à 20 ans), puis raconter comment ce futur est advenu.
-
-L'atelier invite à écrire depuis ce futur :
-nous nous situons dans quelques années et racontons, à la première personne, comment notre manière de vivre, de communiquer ou de créer a évolué.
-
-Ces récits prennent forme à travers un prototype diégétique :
-un objet, un dispositif, une règle, un jeu, un langage ou un artefact qui rend ce futur tangible.
-
-Il ne s'agit pas d'expliquer l'intelligence artificielle, mais de la raconter.
-La mettre en image.
-La mettre en débat.
-
-Chacun·e depuis son point de vue.
-
-### Définition
-
-*Prototype diégétique : objet ou dispositif fictif servant de médiateur pour raconter un monde possible et faciliter la discussion autour de futurs imaginés.*
+Explorer collectivement nos représentations de l'IA - peurs, enthousiasmes, doutes - à partir du quotidien. Observer le présent, imaginer un futur proche (10–20 ans) et écrire depuis ce futur un récit incarné : un moment précis de la vie quotidienne accompagné d'une image et, si souhaité, d'un son. Il ne s'agit pas d'expliquer l'IA, mais de la raconter et de la mettre en débat, chacun·e depuis son point de vue.
 
 ## Production
 
-Chaque groupe produit trois éléments complémentaires :
+Chaque groupe/personne produit trois éléments complémentaires :
 
-- Un texte court
-(récit, souvenir, lettre, extrait de carnet — 10 à 15 lignes maximum)
+- Un texte de 10 à 15 lignes : récit, souvenir, lettre, extrait de carnet
+- Une trace sonore : lecture du texte, fragment de dialogue, ambiance sonore, musique
+- Une image photographique : mise en scène d'un objet, d'un geste, d'un *prototype* issu du récit
 
-- Une trace sonore
-(lecture du texte, message clandestin, fragment de dialogue, ambiance sonore)
-
-- Une image photographique
-(mise en scène d'un objet, d'un geste, d'un “prototype” issu de leur récit)
-
-L'objectif n'est pas de dessiner ou illustrer, mais de rendre le futur tangible à travers un fragment narratif, visuel et sonore.
-Ces trois éléments constitueront la base d'une collection numérique transformée et mise en ligne après l'atelier.
+L'objectif est de rendre le futur imaginé tangible à travers un fragment narratif, visuel et sonore.
+Ces trois éléments pourront servir de base à la collection numérique réalisée après l'atelier.
 
 ## Matériel
 
-- Rouleaux de papier 
+- Rouleaux / feuille de papier
 - Stylos / feutres
-- Enregistreur ZOOM (idéalement celui du lieu ; sinon Nicolas apporte le sien)
-- Appareil photo (idéalement celui du lieu ; sinon Nicolas apporte le sien)
+- Enregistreur audio (idéalement celui du lieu ; sinon Nicolas apporte un ZOOM H6 avec des micros)
+- Appareil photo (idéalement celui du lieu ; sinon Nicolas apporte un Fuji X100VI et/ou un Panasonic GH5)
 - Ordinateur pour centraliser les fichiers (idéalement celui du lieu ; sinon Nicolas apporte le sien)
 - kDrive (archivage des productions)
 - Hébergement Infomaniak (exposition numérique post-atelier)
 
 ## Thématiques 
 
-*Six thématiques, et pistes de discussion organisées sous la forme de mondes*
+*Six thématiques, et pistes de discussion organisées sous la forme de mondes possibles.*
 
 ### 1. Monde Dataset
 
-Un monde construit pour être lisible par les machines
+Un monde construit pour être lisible d'abord par les machines.
 
 **Idées clés**
 - Tout doit être mesurable, catégorisé, traçable.
-- Ce qui n'est pas dans la donnée n'existe presque plus.
+- Ce qui n'est pas *donnée* n'existe plus.
+- Le paysage se transforme au grés des machines. 
 
 **Tension**
-- Qui décide de ce qui est visible ?
-- Qui est oublié ? Qui paie ?
-- Quels risques à tout vouloir rendre calculable ?
+- Qui décide de ce qui est visible ? Qui est oublié ? Qui paie ?
+- Quels risques à automatiser le monde ?
+- Quel impact sur notre rapport au monde, à la nature, à l'autre ?
 
 ### 2. Monde Vernis
 
 Les machines parlent humain. Les humains deviennent machines.
 
 **Idées clés**
-- Interfaces fluides, intuitives, invisibles, ... anthropomorphiques.
+- Interfaces fluides, intuitives, invisibles.
 - Plus c'est simple à utiliser, moins on comprend ce qu'il se passe.
+- Les machines ressemblent de plus en plus à des humaines. 
 
 **Tension**
-- Confort vs compréhension.
-- Simplicité vs transparence.
-- Comment comprendre ce qui se passe en arrière plan ?
+- Devons nous choisir entre simplicité d'usage et transparence ?
+- Comment comprendre ce qui se passe en arrière-plan ?
 - Comment prendre des décisions éclairées quand on ne comprend pas les mécanismes qui les produisent ?
-
 
 ### 3. Monde Délégué
 
-Nous confions nos décisions aux machines
+Nous confions nos décisions aux machines, et peut-être plus ?
 
 **Idées clés**
 - Délégation du travail, de la mémoire, des choix.
 - Performance et optimisation comme norme.
+- Ne plus faire, c'est ne plus entraîner, et donc perdre la capacité à faire.
 
 **Tension**
-- Efficacité vs autonomie.
-- Contrôle vs délégation.
+- Quels risques y a-t-il à vouloir être plus rapide, plus efficace, plus performant ?
+- Y a-t-il des choses que nous ne devrions pas déléguer ? Ou au contraire, que devrions-nous déléguer ?
 - Déléguer notre mortalité ? Notre humanité ? Nos émotions ?
-
 
 ### 4. Monde Surveillé
 
-Rien n'est visible, mais tout est vu, analysé, anticipé
+Rien n'est visible, mais tout est vu, analysé, anticipé.
 
 **Idées clés**
-- Reconnaissance faciale, analyse comportementale.
+- Reconnaissance faciale, analyse comportementale, perte de liberté.
 - Anticipation des actions avant qu'elles n'arrivent.
+- Biais de reconnaissance, erreurs d'analyse, failles de sécurité.
 
 **Tension**
-- Sécurité vs liberté.
-- Confidentialité & protection des données.
+- Quels risques à un tel système de surveillance ? Quels bénéfices ?
+- Quels moyens de lutte ? Est-il possible de luter ? 
 - Le "local" comme potentiel refuge ?
-- Quels moyens de lutte ? Est-il possible de luter ?
 
 ### 5. Monde Épuisé
 
-Le coût invisible de la puissance
+Le coût invisible de la puissance de calcul.
 
 **Idées clés**
 - Extraction de ressources naturelles.
-- Extraction de données culturelles et humaines.
+- Extraction de ressources culturelles et humaines.
+- Normalisation, standardisation et épuisement des singularités. 
 
 **Tension**
-- Progrès technologique vs soutenabilité.
 - La machine fixe un geste humain, le normalise et le standardise, l'épuise.
-- Justifier l'écoulement de la puissance pour produire plus de puissance. 
-- Elloge de la non puissance ? 
+- Progrès technologique vs soutenabilité : justifier l'écoulement de la puissance pour produire plus de puissance. 
+- Elloge de la non puissance ? Choisir de ne pas être performant. 
 
 ### 6. Monde Augmenté
 
-L'IA comme outil de nouvelles sensibilités
+L'IA comme ouvertures à de nouvelles sensibilités et lecture du monde. 
 
 **Idées clés**
 - Voir l'invisible (données médicales, climat, temporalités différentes)
-- Approche non-anthropocentrée.
+- Approche non-anthropocentrée et compréhension de notre environnement. 
 - Collaborer avec la machine plutôt que lui déléguer.
 
 **Tension**
 - Dépendance vs amplification.
 - Et si l'IA pouvait élargir notre perception du monde ?
+- Pharmakon : l'IA comme poison et remède à la fois.
 
 ## Références
 
