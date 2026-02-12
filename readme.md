@@ -101,13 +101,13 @@ Nous confions nos décisions aux machines, et peut-être plus ?
 Rien n'est visible, mais tout est vu, analysé, anticipé.
 
 **Idées clés**
-- Reconnaissance faciale, analyse comportementale, perte de liberté.
-- Anticipation des actions avant qu'elles n'arrivent.
+- Reconnaissance faciale, analyse comportementale, perte de liberté.  
+- Anticipation des actions avant qu'elles n'arrivent.  
 - Biais de reconnaissance, erreurs d'analyse, failles de sécurité.
 
 **Tension**
-- Quels risques à un tel système de surveillance ? Quels bénéfices ?
-- Quels moyens de lutte ? Est-il possible de luter ? 
+- Quels risques présente un tel système de surveillance ? Quels bénéfices ?
+- Quels moyens de lutte ? Est-il possible de lutter ? 
 - Le "local" comme potentiel refuge ?
 
 ### 5. Monde Épuisé
@@ -120,22 +120,22 @@ Le coût invisible de la puissance de calcul.
 - Normalisation, standardisation et épuisement des singularités. 
 
 **Tension**
-- La machine fixe un geste humain, le normalise et le standardise, l'épuise.
-- Progrès technologique vs soutenabilité : justifier l'écoulement de la puissance pour produire plus de puissance. 
-- Elloge de la non puissance ? Choisir de ne pas être performant. 
+- La machine fixe un geste humain, le normalise et le standardise, l'épuise.  
+- Progrès technologique vs soutenabilité : justifier l'écoulement de la puissance pour produire plus de puissance.  
+- Éloge de la non-puissance ? Choisir de ne pas être performant.
 
 ### 6. Monde Augmenté
 
-L'IA comme ouvertures à de nouvelles sensibilités et lecture du monde. 
+L'IA comme ouverture à de nouvelles sensibilités et lectures du monde.
 
 **Idées clés**
-- Voir l'invisible (données médicales, climat, temporalités différentes)
-- Approche non-anthropocentrée et compréhension de notre environnement. 
-- Collaborer avec la machine plutôt que lui déléguer.
+- Voir l'invisible (données médicales, climat, temporalités différentes)  
+- Approche non anthropocentrée et compréhension de notre environnement.  
+- Collaborer avec la machine plutôt que de lui déléguer.
 
 **Tension**
-- Dépendance vs amplification.
-- Et si l'IA pouvait élargir notre perception du monde ?
+- Dépendance vs amplification.  
+- Et si l'IA pouvait élargir notre perception du monde ?  
 - Pharmakon : l'IA comme poison et remède à la fois.
 
 ## Références
