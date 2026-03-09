@@ -7,6 +7,10 @@ _Avec les jeunes de Parcours Pan, le vendredi 20 mars 2026 de 9h30 à 12h00._
 
 Utiliser l'intelligence artificielle comme prisme pour explorer nos imaginaires du futur, en invitant les participant·e·s à imaginer un futur, à en écrire un court récit, puis à en créer une trace tangible - une photographie mise en scène et, si souhaité, un enregistrement sonore - qui en matérialise l'existence.
 
+## Documents
+
+- [Autorisation de droit à l'image et d'utilisation des créations](./docs/autorisation-droit-image.md)
+
 ## Structure
 
 | **Titre**              | **Commentaire**                                                                                                                                                                                                                                                                                                                                                                       | **Type**                        | **Durée** |
