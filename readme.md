@@ -27,8 +27,10 @@ Les récits produits pourront donner lieu à une exposition digitale sous la for
 
 ### Exemple de récit
 
-À venir...
-
+1. Dispositif d’expression émotionnelle (4 états) : perte de "savoir s'exprimer" ?
+2. Interface de mesure de la dette cognitive : perte de "savoir penser" ?
+3. Oracle familial : agent de récit intergnénérationnel : perte de "savoir raconter" ?
+    
 ## Objectif
 
 Explorer collectivement nos représentations de l'IA - peurs, enthousiasmes, doutes - à partir du quotidien. Observer le présent, imaginer un futur proche (10–20 ans) et écrire depuis ce futur un récit incarné : un moment précis de la vie quotidienne accompagné d'une image et, si souhaité, d'un son. Il ne s'agit pas d'expliquer l'IA, mais de la raconter et de la mettre en débat, chacun·e depuis son point de vue.
